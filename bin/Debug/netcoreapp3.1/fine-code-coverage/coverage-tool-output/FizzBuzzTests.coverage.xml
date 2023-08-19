@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<coverage line-rate="0.75" branch-rate="0.7857" version="1.9" timestamp="1692430689" lines-covered="33" lines-valid="44" branches-covered="11" branches-valid="14">
+<coverage line-rate="0.75" branch-rate="0.7857" version="1.9" timestamp="1692432344" lines-covered="33" lines-valid="44" branches-covered="11" branches-valid="14">
   <sources>
     <source>C:\Users\Shakhriyor_Toylokov\</source>
   </sources>
@@ -18,7 +18,7 @@
             <line number="4" hits="0" branch="False" />
           </lines>
         </class>
-        <class name="FizzBuzzTests.Tests" filename="source\repos\UnitTesting\FizzBuzzTests\UnitTest1.cs" line-rate="1" branch-rate="1" complexity="3">
+        <class name="FizzBuzzTests.Tests" filename="Source\Repos\NewRepo2\FizzBuzz\FizzBuzzTests\UnitTest1.cs" line-rate="1" branch-rate="1" complexity="3">
           <methods>
             <method name="Setup" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -80,7 +80,7 @@
     </package>
     <package name="UnitTestingTask1" line-rate="0.5652" branch-rate="0.7857" complexity="16">
       <classes>
-        <class name="UnitTestingTask1.FizzBuzz" filename="source\repos\UnitTesting\UnitTestingTask1\FizzBuzz.cs" line-rate="0.6842" branch-rate="0.7857" complexity="15">
+        <class name="UnitTestingTask1.FizzBuzz" filename="Source\Repos\NewRepo2\FizzBuzz\UnitTestingTask1\FizzBuzz.cs" line-rate="0.6842" branch-rate="0.7857" complexity="15">
           <methods>
             <method name="Run" signature="()" line-rate="0" branch-rate="0" complexity="2">
               <lines>
@@ -180,7 +180,7 @@
             <line number="11" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="UnitTestingTask1.Program" filename="source\repos\UnitTesting\UnitTestingTask1\Program.cs" line-rate="0" branch-rate="1" complexity="1">
+        <class name="UnitTestingTask1.Program" filename="Source\Repos\NewRepo2\FizzBuzz\UnitTestingTask1\Program.cs" line-rate="0" branch-rate="1" complexity="1">
           <methods>
             <method name="Main" signature="(System.String[])" line-rate="0" branch-rate="1" complexity="1">
               <lines>

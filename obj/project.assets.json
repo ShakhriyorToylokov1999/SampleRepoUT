@@ -3948,11 +3948,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shakhriyor_Toylokov\\source\\repos\\UnitTesting\\FizzBuzzTests\\FizzBuzzTests.csproj",
+      "projectUniqueName": "C:\\Users\\Shakhriyor_Toylokov\\Source\\Repos\\NewRepo2\\FizzBuzz\\FizzBuzzTests\\FizzBuzzTests.csproj",
       "projectName": "FizzBuzzTests",
-      "projectPath": "C:\\Users\\Shakhriyor_Toylokov\\source\\repos\\UnitTesting\\FizzBuzzTests\\FizzBuzzTests.csproj",
+      "projectPath": "C:\\Users\\Shakhriyor_Toylokov\\Source\\Repos\\NewRepo2\\FizzBuzz\\FizzBuzzTests\\FizzBuzzTests.csproj",
       "packagesPath": "C:\\Users\\Shakhriyor_Toylokov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shakhriyor_Toylokov\\source\\repos\\UnitTesting\\FizzBuzzTests\\obj\\",
+      "outputPath": "C:\\Users\\Shakhriyor_Toylokov\\Source\\Repos\\NewRepo2\\FizzBuzz\\FizzBuzzTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3972,8 +3972,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Shakhriyor_Toylokov\\source\\repos\\UnitTesting\\UnitTestingTask1\\UnitTestingTask1.csproj": {
-              "projectPath": "C:\\Users\\Shakhriyor_Toylokov\\source\\repos\\UnitTesting\\UnitTestingTask1\\UnitTestingTask1.csproj"
+            "C:\\Users\\Shakhriyor_Toylokov\\Source\\Repos\\NewRepo2\\FizzBuzz\\UnitTestingTask1\\UnitTestingTask1.csproj": {
+              "projectPath": "C:\\Users\\Shakhriyor_Toylokov\\Source\\Repos\\NewRepo2\\FizzBuzz\\UnitTestingTask1\\UnitTestingTask1.csproj"
             }
           }
         }

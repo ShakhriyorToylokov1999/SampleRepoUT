@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RkW8Bn2c3Uwx/NwqfHRGotzhlBzuZko1W/4wuS03YUxr1990oRceeG07KvFpOdLFUVXfcg3YoWoKLqJCX5LdtA==",
+  "dgSpecHash": "f6HJhb4c9YH0yBsDHGkHGfZqBsrmKOt0xbVY6YF68f53XAgYiXPjlq1MJwl6TMZyHxZfUAmRZyySPbE2aYyTDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Shakhriyor_Toylokov\\source\\repos\\UnitTesting\\FizzBuzzTests\\FizzBuzzTests.csproj",
+  "projectFilePath": "C:\\Users\\Shakhriyor_Toylokov\\Source\\Repos\\NewRepo2\\FizzBuzz\\FizzBuzzTests\\FizzBuzzTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shakhriyor_Toylokov\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Shakhriyor_Toylokov\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
